@@ -9,5 +9,5 @@ features = ["blog", ]
 
 [author]
     name = "AlexFinn"
-    homepage = "http://ru.alxschwarz.com/"
+    homepage = "https://meyer-atelier.netlify.com"
     source_repo = "https://github.com/AlexFinn/simple-a"
